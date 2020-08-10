@@ -150,5 +150,6 @@
   "license": "Apache-2.0",
   "jest-junit": {
     "output": "test-reports/junit/js-test-results.xml"
-  }
+  },
+  "types": "types.d.ts"
 }
